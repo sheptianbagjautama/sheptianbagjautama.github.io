@@ -135,6 +135,10 @@ table {
   -o-transition: all 0.9s ease 0s;
 }
 
+.text-url {
+  color: #0bceaf !important;
+}
+
 /* ==================================================================
 	2.0 Bootstrap fix for WinPhone 8 and IE10 
 ================================================================== */
